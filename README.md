@@ -14,13 +14,15 @@
 
 Para instalar a KPIS_WEB, siga estas etapas:
 
-Instalação de dependências do repositório:
+1. Instale as dependências do repositório:
 
 ```
 npm install
 ```
 
-Para rodar local:
+2. Crie o arquivo .env com as seguintes variáveis de ambiente existente no arquivo .env.example
+
+3.Para rodar local:
 
 ```
 npm start
